@@ -1,0 +1,63 @@
+body{
+    margin-top: 30px;
+}
+
+.search-form{
+    width: 100%;
+    margin: auto;
+    background: #f4f4f4;
+    padding: 0 20px 20px 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+}
+a{margin-left: 20px; font-size: 18px;}
+.headerpic{width:100%;}
+.jumbotron img {width:100%}
+img{
+    height : 40%;
+    width: 50%;
+    border-bottom: 2px;
+}
+
+.thumbnail {
+  height : 50%;
+  width: 80%;
+}
+#searchn{
+  padding-bottom: 8px;
+  padding-top: 6px;
+  padding-left: 30px;
+  margin: 15px 15px 15px 15px;
+}
+#movieform{
+  background-color: grey;
+  margin-bottom: 20px;
+}
+#moviedata{
+  /*border-bottom: solid 1px;*/
+  background-color: #ebebe0;
+  margin-left: 0px;
+  margin: 0px 0px 25px 0px;
+padding: 10px 0px 10px 5px;
+}
+#searchfrm{
+  margin-left:40%;
+}
+.mailb{
+border: 1px solid;
+background-color: #e6e6e6;
+font-size: 8px;
+font-family:sans-serif;
+padding: 10px 10px 10px 10px;
+margin-bottom: 10px;
+}
+.mailb p{
+  font-size: 14px;
+  font-family:cursive;;
+}
+#modalw{
+  position: static;
+  width:800px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
